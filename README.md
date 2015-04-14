@@ -1,0 +1,2 @@
+# Jacknife
+Simple jacknife algorithm
